@@ -10,8 +10,7 @@
     <button @click="incrementar()" type="button" class="btn btn-success ">+1</button>
     <button @click="disminuir()"   type="button" class="btn btn-success ">-1</button>
     <button @click="resetear()"       type="button" class="btn btn-success ">Reset</button>
-
-    <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">Moises Yosua Antonio Flores</button>
+ <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">Moises Yosua Antonio Flores</button>
     <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -71,4 +70,3 @@ button {
   margin: 0px 8px;
 }
 </style>
-  
